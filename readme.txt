@@ -1,5 +1,6 @@
 哈啊哈我在vim编辑哟
-ooooo
+creating a new branch is quick
+oooo
 cccccccc
 taaahis is a test newWorld!
 eeeeeee
