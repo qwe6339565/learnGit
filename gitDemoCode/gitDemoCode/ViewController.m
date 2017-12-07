@@ -16,12 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-   
+    
     int a = 1;
     int b = 2;
-    a = a + b;
-    NSLog(@"我在这一行添加了一句代码--%d-",a);
-    
+    int c;
+    c = a + b;
+    NSLog(@"我在这一行添加了一句代码--%d-",c);
+     NSLog(@"1123123");
+
 }
 
 
