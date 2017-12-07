@@ -16,7 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+   
+    int a = 1;
+    int b = 2;
+    a = a + b;
+    NSLog(@"我在这一行添加了一句代码--%d-",a);
+    
 }
 
 

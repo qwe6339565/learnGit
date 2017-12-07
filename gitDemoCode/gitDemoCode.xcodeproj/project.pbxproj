@@ -15,6 +15,7 @@
 		F42BEC9D1FD8DA3600C3D5F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F42BEC9C1FD8DA3600C3D5F1 /* main.m */; };
 		F42BECA71FD8DA3600C3D5F1 /* gitDemoCodeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F42BECA61FD8DA3600C3D5F1 /* gitDemoCodeTests.m */; };
 		F42BECB21FD8DA3600C3D5F1 /* gitDemoCodeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F42BECB11FD8DA3600C3D5F1 /* gitDemoCodeUITests.m */; };
+		F461325C1FD8DF17002C9305 /* test1.m in Sources */ = {isa = PBXBuildFile; fileRef = F461325B1FD8DF17002C9305 /* test1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		F42BECAD1FD8DA3600C3D5F1 /* gitDemoCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitDemoCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F42BECB11FD8DA3600C3D5F1 /* gitDemoCodeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitDemoCodeUITests.m; sourceTree = "<group>"; };
 		F42BECB31FD8DA3600C3D5F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F461325A1FD8DF17002C9305 /* test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test1.h; sourceTree = "<group>"; };
+		F461325B1FD8DF17002C9305 /* test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				F42BEC8E1FD8DA3600C3D5F1 /* AppDelegate.m */,
 				F42BEC901FD8DA3600C3D5F1 /* ViewController.h */,
 				F42BEC911FD8DA3600C3D5F1 /* ViewController.m */,
+				F461325A1FD8DF17002C9305 /* test1.h */,
+				F461325B1FD8DF17002C9305 /* test1.m */,
 				F42BEC931FD8DA3600C3D5F1 /* Main.storyboard */,
 				F42BEC961FD8DA3600C3D5F1 /* Assets.xcassets */,
 				F42BEC981FD8DA3600C3D5F1 /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 				F42BEC921FD8DA3600C3D5F1 /* ViewController.m in Sources */,
 				F42BEC9D1FD8DA3600C3D5F1 /* main.m in Sources */,
 				F42BEC8F1FD8DA3600C3D5F1 /* AppDelegate.m in Sources */,
+				F461325C1FD8DF17002C9305 /* test1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
